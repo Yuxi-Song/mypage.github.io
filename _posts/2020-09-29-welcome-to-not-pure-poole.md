@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Welcome to my page!
-catalog: 	 true
+catalog: true
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 toc:  true
 ---
 
