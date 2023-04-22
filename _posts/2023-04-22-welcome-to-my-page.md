@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Welcome to my page!
 catalog: true
 author_profile: true
