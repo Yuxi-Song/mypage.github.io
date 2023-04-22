@@ -5,6 +5,7 @@ avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+description: "Hi, welcome to Yuxi's page"
 
 # Gems
 plugins:
@@ -51,8 +52,3 @@ sass:
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
-# Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
