@@ -2,8 +2,13 @@
 layout: post
 title: Welcome to my page!
 catalog: 	 true
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 toc:  true
 ---
+
 
 ## About Yuxi
 Hi, I'm Yuxi. I am currently an MS biostatistic student at UCLA. I recieved my BS degree of **statistics** from **East China Normal University**. I am currently conducting research in **Boutros Lab** at David Geffen School of Medcine, UCLA.
