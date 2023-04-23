@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Welcome to my page!
 catalog: 	 true
 toc:  true
@@ -14,13 +14,13 @@ My main research interest focus on **statistical genetics**. I am working on a p
 
  - **Master of Science in Biostatistics**\
  Sep. 2022 - Present\
- University of California, Los Angeles\
+ University of California, Los Angeles
  - **Bachelor of Science in Statistics**\
  Sep. 2018 - Jul. 2022\
- East China Normal University\
+ East China Normal University
  - **Bachelor of Art, Japanese Literature( Minor)**\
  Sep.2019 - Jan. 2022\
- East China Normal University\
+ East China Normal University
  
 ## Research Interests
 
