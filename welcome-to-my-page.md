@@ -18,7 +18,7 @@ My main research interest focus on **statistical genetics**. I am working on a p
  - **Bachelor of Science in Statistics**\
  Sep. 2018 - Jul. 2022\
  East China Normal University
- - **Bachelor of Art, Japanese Literature( Minor)**\
+ - **Bachelor of Art, Japanese Literature(Minor)**\
  Sep.2019 - Jan. 2022\
  East China Normal University
  
